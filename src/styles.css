@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.demo {
+  margin: 4px;
+  width: 96%;
+  height: 86vh;
+  border: 2px solid black;
+}
