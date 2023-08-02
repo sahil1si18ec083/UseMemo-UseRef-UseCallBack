@@ -26,5 +26,3 @@ const children = useMemo(
 <ChildComponent childState={childState} setChildState={setChildState} />
 ),[]);
 
-
-![Screenshot (1)](https://github.com/sahil1si18ec083/UseMemo-UseRef-UseCallBack/assets/103936307/f110e074-8e2d-4451-9a39-cf3a93f07493)
